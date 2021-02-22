@@ -1,11 +1,11 @@
 {
-	"name": "greenpeace/planet4-malaysia",
-	"description": "Greenpeace P4 Malaysia",
-	"license": "MIT",
-	"require": {
-		"greenpeace/planet4-child-theme-malaysia" : "dev-master"
-	},
-	"scripts": {
-		"site:custom": []
-	}
+    "name": "greenpeace/planet4-malaysia",
+    "description": "Greenpeace P4 Malaysia",
+    "license": "MIT",
+    "require": {
+        "greenpeace/planet4-child-theme-malaysia" : "dev-master"
+    },
+    "scripts": {
+        "site:custom": []
+    }
 }
