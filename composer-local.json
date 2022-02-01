@@ -3,7 +3,7 @@
     "description": "Greenpeace P4 Malaysia",
     "license": "MIT",
     "require": {
-        "greenpeace/planet4-child-theme-malaysia" : "dev-master"
+        "greenpeace/planet4-child-theme-malaysia" : "dev-main"
     },
     "scripts": {
         "site:custom": []
